@@ -1,0 +1,10 @@
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\bin\Debug\Incidents by Technician.exe.config
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\bin\Debug\Incidents by Technician.exe
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\bin\Debug\Incidents by Technician.pdb
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents by Technician.csprojAssemblyReference.cache
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents_by_Technician.Form1.resources
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents_by_Technician.Properties.Resources.resources
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents by Technician.csproj.GenerateResource.cache
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents by Technician.csproj.CoreCompileInputs.cache
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents by Technician.exe
+C:\Users\zbshadow-pc\source\repos\Incidents by Technician\obj\Debug\Incidents by Technician.pdb
